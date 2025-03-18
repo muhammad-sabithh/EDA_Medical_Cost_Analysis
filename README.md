@@ -1,4 +1,4 @@
-# Medical Cost Prediction Using Regression  
+# EDA_Medical_Cost_Analysis
 
 ## 📌 Overview  
 This project predicts medical insurance costs based on factors such as age, BMI, smoking status, and region. It utilizes regression models to estimate the charges.  
